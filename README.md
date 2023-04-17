@@ -1,13 +1,12 @@
 # plan
-[x] explore and understand the CLIP interaction notebook. 
-- Know how to take an image and encode then compare it to text
-[x] load images into vector db
-[x] explore the space of duplicate image search
-[x] explore similar image search
-[x] explore search of images based on text
-[x] negative prompt 
-[x] reverse caption
-[ ] portfolio search (multiple images at the same time)
+- [x] explore and understand the CLIP interaction notebook. 
+- [x] load images into vector db
+- [x] explore the space of duplicate image search
+- [x] explore similar image search
+- [x] explore search of images based on text
+- [x] negative prompt 
+- [x] reverse caption
+- [ ] portfolio search (multiple images at the same time)
 
 
 # Scenarios we need to test
