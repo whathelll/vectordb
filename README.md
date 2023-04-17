@@ -1,12 +1,13 @@
 # plan
-[ ] explore and understand the CLIP interaction notebook. 
+[x] explore and understand the CLIP interaction notebook. 
 - Know how to take an image and encode then compare it to text
-[ ] load images into vector db
-[ ] explore the space of duplicate image search
-[ ] explore similar image search
-[ ] explore search of images based on text
-[ ] 
-
+[x] load images into vector db
+[x] explore the space of duplicate image search
+[x] explore similar image search
+[x] explore search of images based on text
+[x] negative prompt 
+[x] reverse caption
+[ ] portfolio search (multiple images at the same time)
 
 
 # Scenarios we need to test
@@ -19,10 +20,9 @@
 
 
 
-
-
 # Analysis
-- It seems using OpenAI clip on MNIST is shit
+- It seems using OpenAI clip on MNIST is shit. This was noted in their paper. 
+- However it looks really interesting on a dataset such as Modern Architecture. See [Modern Architecture](/workspaces/fast.ai/vectordb/modern-architectures.ipynb)
 
 
 
